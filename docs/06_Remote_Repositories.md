@@ -46,8 +46,10 @@ Stored on your computer.
 Example:
 
 ```text
-/home/student/my_project
+/home/yourname/my_project
 ```
+
+Replace yourname with your own folder name.
 
 Operations:
 
@@ -69,7 +71,7 @@ Stored on a server.
 Example:
 
 ```text
-https://github.com/student/my_project.git
+https://github.com/your-username/my_project.git
 ```
 
 Used for:
@@ -213,6 +215,8 @@ origin = Remote Name
 ```
 
 You can choose another name, but origin is the industry standard.
+
+If your GitHub repository uses master instead of main, replace main with master in the push commands below.
 
 ---
 

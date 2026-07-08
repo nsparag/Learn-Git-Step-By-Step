@@ -60,8 +60,10 @@ pwd
 Example:
 
 ```text
-/home/student/my_first_repo
+/home/yourname/my_first_repo
 ```
+
+Replace yourname with your own folder name or username.
 
 ---
 

@@ -152,6 +152,12 @@ Observe:
 
 ---
 
+## Optional Extension
+
+After completing this exercise, you can connect your repository to your own GitHub account and push your first commit there.
+
+This helps you build a personal portfolio of your learning progress.
+
 ## Questions
 
 Answer the following:

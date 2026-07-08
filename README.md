@@ -124,7 +124,8 @@ Learn-Git-Step-By-Step
 │   ├── 13_GitHub_Flow.md
 │   ├── 14_Git_Best_Practices.md
 │   ├── 15_Common_Git_Commands.md
-│   └── 16_Git_Troubleshooting.md
+│   ├── 16_Git_Troubleshooting.md
+│   └── 17_Student_Workflow.md
 │
 ├── exercises
 │   ├── exercise_01
@@ -175,6 +176,35 @@ Follow the modules in the given sequence:
 16. Git Troubleshooting
 
 ---
+
+## For Students: Self-Paced Learning and Personal GitHub
+
+This repository is designed for students to learn Git independently and then connect their work to their own GitHub account.
+
+A recommended workflow is:
+
+1. Read the lesson in the docs folder.
+2. Complete the relevant exercise locally.
+3. Commit your work with a clear message.
+4. Push your progress to your personal GitHub repository.
+5. Continue building your portfolio as you finish each topic.
+
+### Recommended Student Workflow
+
+If you want to keep your learning work on your own GitHub account, use one of these approaches:
+
+- Option A: Fork this repository on GitHub, then clone your fork locally.
+- Option B: Create a new repository on your GitHub account and connect your local folder to it.
+
+Example commands for Option B:
+
+```bash
+git remote add origin https://github.com/your-username/your-repo-name.git
+git branch -M main
+git push -u origin main
+```
+
+A full step-by-step guide is available in [docs/17_Student_Workflow.md](docs/17_Student_Workflow.md).
 
 ## Practical Exercises
 

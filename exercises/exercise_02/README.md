@@ -31,6 +31,8 @@ Before starting this exercise, ensure that:
 - Exercise 01 has been completed
 - A repository with at least one commit exists
 
+Use clear branch names such as feature-profile so your work stays organized.
+
 ---
 
 ## Tasks
@@ -186,6 +188,8 @@ Observe the new commit.
 ---
 
 ### Step 10: Switch Back to Main
+
+After you finish the exercise, you can also push your branch to your personal GitHub repository to practice remote collaboration.
 
 ```bash
 git switch main
